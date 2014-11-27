@@ -1,10 +1,9 @@
 #Agenda Day 1
 
-| Topic                                                        | Time          |
-| -------------------------------------------------------------|:-------------:|
-| Ruby 101 + Rspec + Git                                       | 4 + 1 Hours   |
-| Agile Concepts                                               | 1 Hour        |
-| Intro to MVC, Rails, Conventions, Scaffolding + REST concepts| 2 Hours       |
+| Topic                                                        | Time    |
+| -------------------------------------------------------------|:-------:|
+| Ruby 101 + Rspec + Git                                       | 6 Hours |
+| Intro to MVC, Rails, Conventions, Scaffolding + REST concepts| 2 Hours |
 
 
 
