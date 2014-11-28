@@ -58,3 +58,8 @@ vendor/ |Folder for Ruby software libraries that are not gems.
 * jbuilder – utility for encoding JSON data
 
 * rspec - Enables us to write tests using the rspec DSL
+
+
+Add `gem 'rspec-rails', '~> 3.0'` to your Gemfile under the 
+
+Run `rails generate rspec:install` to initalize an rspec test suite in your rails project
