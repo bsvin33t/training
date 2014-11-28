@@ -57,4 +57,4 @@ vendor/ |Folder for Ruby software libraries that are not gems.
 * turbolinks – faster loading of webpages
 * jbuilder – utility for encoding JSON data
 
-* rspec - Enables us to write tests
+* rspec - Enables us to write tests using the rspec DSL
