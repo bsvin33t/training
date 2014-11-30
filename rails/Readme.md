@@ -113,7 +113,15 @@ Create a show page for the ad
     * Add a route
     * Implemnt the `show` action in the controller
     * Create a new file show.html.erb under `app/views/ads/`
-    * Add details for the view to show the products
-    
+    * Add details for the view to show the details of the ad
+
+Create an Index page to list all the ads present in the site
+    * Add a spec for the `index` action in the ads controller
+    * Add a route
+    * Implement the `index` action in the controller
+    * Create a new file index.html.erb under `app/views/ads/`
+    * Add details for the view to list all the ads
+    * Refactor to use `for`
+    * Use `link_to` to provide links to the show page of the item
 
 
