@@ -100,13 +100,13 @@ Few Useful Articles
     * Email
     * URL for the image
 
-#####Creating your first Model
+#####Creating your first Model Controller and View
 
 `rails g model ad name:string description:text price:decimal seller_id:integer email:string img_url:string`
 
 `rake db:migrate`
 
-
+`rails g controller ads`
 
 
 
