@@ -12,11 +12,11 @@
 
 ### Topics
 
-1. [I/O](course_contents/io.md)
-1. [Arrays](course_contents/arrays.md)
-1. [Objects](course_contents/objects.md)
-1. [Hashes](course_contents/hashes.md)
-1. [Strings](course_contents/strings.md)
-1. [Classes](course_contents/classes.md)
-1. [Modules](course_contents/modules.md)
-1. [Project Structure](course_contents/project_structure.md)
+1. [I/O](course_contents/01_io.md)
+1. [Arrays](course_contents/02_arrays.md)
+1. [Objects](course_contents/03_objects.md)
+1. [Hashes](course_contents/04_hashes.md)
+1. [Strings](course_contents/05_strings.md)
+1. [Classes](course_contents/06_classes.md)
+1. [Modules](course_contents/07_modules.md)
+1. [Project Structure](course_contents/08_project_structure.md)
