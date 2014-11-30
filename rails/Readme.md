@@ -92,7 +92,7 @@ Few Useful Articles
 ###Create a web application portal for people to sell their unwanted stuff.
 
 ####Tasks:
-* Feature an advertisement of the product
+* Feature an advertisement of the product with the below attributes:
     * Name
     * Description
     * Price
@@ -108,5 +108,10 @@ Few Useful Articles
 
 `rails g controller ads`
 
+Create a show page for the ad
+    * Create a new file show.html.erb under `app/views/ads/`
+    * Trying to visit the page will show an error message saying `unknown action`
+    * Add a route
+    
 
 
