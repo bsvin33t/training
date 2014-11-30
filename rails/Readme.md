@@ -152,6 +152,7 @@ Few Useful Articles
 #####Adding associations
 
 Create a new model `comments`
+
     * Associate each item with comments
 
 Form field to add new comments to each item
