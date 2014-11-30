@@ -143,6 +143,11 @@ Few Useful Articles
     * Implement the `delete` action in the controller
     * Assign a button to use the delete action
 
+######Add Validations for the models
+    * Add spec for all the fields of the ads model
+
+
+
 
 #####Adding associations
 
