@@ -13,10 +13,10 @@ seller_id = 42
 prices = [70, 60, 30, 50, 80, 40]
 
 names.each_with_index do |name, index|
-  Ad.new.save!(name: name,
-           description: descriptions[index],
-           price: prices[index],
-           seller_id: seller_id,
-           email: email,
-           img_url: urls[index] )
+  Ad.create(name: name,
+         description: descriptions[index],
+         price: prices[index],
+         seller_id: seller_id,
+         email: email,
+         img_url: urls[index])
 end

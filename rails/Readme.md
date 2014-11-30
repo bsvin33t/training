@@ -109,9 +109,11 @@ Few Useful Articles
 `rails g controller ads`
 
 Create a show page for the ad
-    * Create a new file show.html.erb under `app/views/ads/`
-    * Trying to visit the page will show an error message saying `unknown action`
+    * Add a spec for the `show` action of the ads controller
     * Add a route
+    * Implemnt the `show` action in the controller
+    * Create a new file show.html.erb under `app/views/ads/`
     * Add details for the view to show the products
+    
 
 
