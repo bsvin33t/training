@@ -112,6 +112,6 @@ Create a show page for the ad
     * Create a new file show.html.erb under `app/views/ads/`
     * Trying to visit the page will show an error message saying `unknown action`
     * Add a route
-    
+    * Add details for the view to show the products
 
 
