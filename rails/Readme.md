@@ -108,14 +108,14 @@ Few Useful Articles
 
 `rails g controller ads`
 
-Create a `show` page for the ad
+######Create a `show` page for the ad
     * Add a spec for the `show` action of the ads controller
     * Add a route
     * Implemnt the `show` action in the controller
     * Create a new file show.html.erb under `app/views/ads/`
     * Add details for the view to show the details of the ad
 
-Create an `index` page to list all the ads present in the site
+######Create an `index` page to list all the ads present in the site
     * Add a spec for the `index` action in the ads controller
     * Add a route
     * Implement the `index` action in the controller
@@ -124,20 +124,20 @@ Create an `index` page to list all the ads present in the site
     * Refactor to use `for`
     * Use `link_to` to provide links to the show page of the item
 
-Create a `create` page to create/add a new item to the site
+######Create a `create` page to create/add a new item to the site
     * Add a spec for the create action
     * Add a route
     * Implement the `create` action in the controller
     * Create a new file for new.html.erb under `app/views/ads/`
 
-Create an `edit` page to edit an item in the site
+######Create an `edit` page to edit an item in the site
     * Add a spec for the edit action
     * Add a route
     * Implement the `edit` action in the controller
     * Create a new file for edit.html.erb under `app/views/ads/`
     * Reuse the action and template for `edit`
 
-Create a `delete` button on the index page to delete items from the site
+######Create a `delete` button on the index page to delete items from the site
     * Add spec for the delete action
     * Add a route
     * Implement the `delete` action in the controller
