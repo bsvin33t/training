@@ -20,3 +20,6 @@
 1. [Classes](course_contents/06_classes.md)
 1. [Modules](course_contents/07_modules.md)
 1. [Project Structure](course_contents/08_project_structure.md)
+
+### TDD 101
+* We will be using the project structure which we saw to write Rspec Specs and Test Drive a Simple Application
