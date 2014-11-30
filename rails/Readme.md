@@ -1,3 +1,5 @@
+##Day One
+
 ##Creating a new Project
 
 Run `rails new --help` to list all the creation options
@@ -84,6 +86,13 @@ Few Useful Articles
 
 
 -------------------------
+
+##Day Two
+
+###Creating your first Controller and adding a static page
+
+`rails g controller invitations hello welcome`
+
 
 
 
