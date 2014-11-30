@@ -89,9 +89,22 @@ Few Useful Articles
 
 ##Day Two
 
-###Creating your first Controller and adding a static page
+###Create a web application portal for people to sell their unwanted stuff.
 
-`rails g controller invitations hello welcome`
+####Tasks:
+* Feature an advertisement of the product
+    * Name
+    * Description
+    * Price
+    * Seller ID
+    * Email
+    * URL for the image
+
+#####Creating your first Model
+
+`rails g model ad name:string description:text price:decimal seller_id:integer email:string img_url:string`
+
+`rake db:migrate`
 
 
 

@@ -11,6 +11,17 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 0) do
+ActiveRecord::Schema.define(version: 20141130122117) do
+
+  create_table "ads", force: true do |t|
+    t.string   "name"
+    t.text     "description"
+    t.decimal  "price"
+    t.integer  "seller_id"
+    t.string   "email"
+    t.string   "img_url"
+    t.datetime "created_at",  null: false
+    t.datetime "updated_at",  null: false
+  end
 
 end
