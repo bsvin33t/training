@@ -60,6 +60,27 @@ vendor/ |Folder for Ruby software libraries that are not gems.
 * rspec - Enables us to write tests using the rspec DSL
 
 
-Add `gem 'rspec-rails', '~> 3.0'` to your Gemfile under the 
+Add `gem 'rspec-rails', '~> 3.0'` to your Gemfile under the
 
 Run `rails generate rspec:install` to initalize an rspec test suite in your rails project
+
+
+###Scaffolds
+
+To generate a scaffold we run `rails generate scaffold User first_name:string last_name:string age:integer`
+
+`rake db:migrate`
+
+You might run into errors while running a migration
+
+
+A solution for that is by adding `gem 'arel', '6.0.0.beta2'` in your gem file
+
+###MVC Pattern and Rails Architecture
+Few Useful Articles
+[Phusion Passenger Design and Architecture](https://www.phusionpassenger.com/documentation/Design%20and%20Architecture.html)
+[Rails Request Response Lifecycle](http://stackoverflow.com/questions/12655604/ruby-rails-web-request-response-lifecycle#answer-12655930)
+
+-------------------------
+
+
