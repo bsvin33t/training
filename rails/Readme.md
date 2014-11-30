@@ -78,9 +78,14 @@ A solution for that is by adding `gem 'arel', '6.0.0.beta2'` in your gem file
 
 ###MVC Pattern and Rails Architecture
 Few Useful Articles
+
 [Phusion Passenger Design and Architecture](https://www.phusionpassenger.com/documentation/Design%20and%20Architecture.html)
+
 [Rails Request Response Lifecycle](http://stackoverflow.com/questions/12655604/ruby-rails-web-request-response-lifecycle#answer-12655930)
 
+
 -------------------------
+
+
 
 
