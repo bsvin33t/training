@@ -25,7 +25,6 @@ app/ | Application folders and files.
 config/ |Configuration folders and files.
 db/ |Database folders and files.
 public/ |Files for web pages that do not contain Ruby code, such as error pages.
-
 Rakefile |Directives for the Rake utility program.
 bin/ |Folder for binary (executable) programs.
 config.ru |Configuration file for Rack (a software library for web servers).
